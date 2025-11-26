@@ -1,0 +1,200 @@
+LOG DE LIMPIEZA DE MARKDOWN
+==================================================
+📄 Algunos_apuntes_sobre_la_evaluación_genética_de_animales_puros_y_cruzados_con_énfasis_en_el_Trópico.md
+   Líneas originales: 1237
+   Líneas limpias: 645
+   Problemas corregidos: 7
+   Reducción: 47.9%
+--------------------------------------------------
+📄 Alternativa_metodológica_para_el_perfeccionamiento_de_la_técnica_de_salida_de_atletismo_en_nadadore.md
+   Líneas originales: 549
+   Líneas limpias: 265
+   Problemas corregidos: 7
+   Reducción: 51.7%
+--------------------------------------------------
+📄 Alternativas_para_la_intervención_en_los_vitrales_de_la_capilla_de_las_Siervas_de_María_en_la_ciudad_de_Camagüey.md
+   Líneas originales: 913
+   Líneas limpias: 403
+   Problemas corregidos: 6
+   Reducción: 55.9%
+--------------------------------------------------
+📄 Arquitectura_doméstica_tradicional_de_Guayaquil_1896-1920.md
+   Líneas originales: 1089
+   Líneas limpias: 637
+   Problemas corregidos: 6
+   Reducción: 41.5%
+--------------------------------------------------
+📄 Caracterización_morfotipológica_del_patio_en_la_vivienda_camagüeyana.md
+   Líneas originales: 815
+   Líneas limpias: 339
+   Problemas corregidos: 6
+   Reducción: 58.4%
+--------------------------------------------------
+📄 Características_antropométricas,_composición_corporal_y_somatotipo_por_posiciones_de_juego_en_futbolistas_profesionales_ecuatorianos.md
+   Líneas originales: 4172
+   Líneas limpias: 2547
+   Problemas corregidos: 7
+   Reducción: 39.0%
+--------------------------------------------------
+📄 Ciudad_de_leyendas_e_historias.md
+   Líneas originales: 202
+   Líneas limpias: 79
+   Problemas corregidos: 5
+   Reducción: 60.9%
+--------------------------------------------------
+📄 Diagnóstico_patológico_en_el_hospital_pediátrico_Mártires_de_las_Tunas.md
+   Líneas originales: 808
+   Líneas limpias: 427
+   Problemas corregidos: 5
+   Reducción: 47.2%
+--------------------------------------------------
+📄 Diversidad,_composición_y_estructura_del_bosque_ribereño_del_río_Nagua_en_la_Reserva_Científica_Loma_Quita_Espuela,_República_Dominicana.md
+   Líneas originales: 1976
+   Líneas limpias: 965
+   Problemas corregidos: 6
+   Reducción: 51.2%
+--------------------------------------------------
+📄 Diversidad_de_especies_apícolas_y_sus_potencialidades_en_fincas_suburbanas_de_Santiago_de_Cuba,_Cuba.md
+   Líneas originales: 2437
+   Líneas limpias: 747
+   Problemas corregidos: 8
+   Reducción: 69.3%
+--------------------------------------------------
+📄 Ejercicios_teóricos_y_prácticos_para_contribuir_al_mejoramiento_del_pensamiento_táctico_de_los_pasadores_escolares.md
+   Líneas originales: 524
+   Líneas limpias: 245
+   Problemas corregidos: 8
+   Reducción: 53.2%
+--------------------------------------------------
+📄 El_patrimonio_ferroviario_de_la_ciudad_de_Camagüey._Sectores_urbanos_de_desarrollo.md
+   Líneas originales: 764
+   Líneas limpias: 331
+   Problemas corregidos: 6
+   Reducción: 56.7%
+--------------------------------------------------
+📄 Evaluación_de_la_marcha_en_pacientes_lesionados_medulares_en_el_Centro_Internacional_de_Restauración_Neurológica.md
+   Líneas originales: 1058
+   Líneas limpias: 567
+   Problemas corregidos: 7
+   Reducción: 46.4%
+--------------------------------------------------
+📄 Evaluación_global_de_la_productividad_de_rebaños_lecheros_y_estrés_térmico._I._Análisis_y_primeros_resultados.md
+   Líneas originales: 583
+   Líneas limpias: 243
+   Problemas corregidos: 7
+   Reducción: 58.3%
+--------------------------------------------------
+📄 Evaluación_global_de_la_productividad_del_rebaño_lechero._II-Metodología_y_resultados.md
+   Líneas originales: 600
+   Líneas limpias: 285
+   Problemas corregidos: 7
+   Reducción: 52.5%
+--------------------------------------------------
+📄 Gestión_del_desarrollo_de_redes_interorganizacionales_de_aseguramiento_de_la_calidad_higiénico-sanitaria_en_cadenas_agroalimentarias.md
+   Líneas originales: 1776
+   Líneas limpias: 1507
+   Problemas corregidos: 7
+   Reducción: 15.1%
+--------------------------------------------------
+📄 Indicadores_de_sostenibilidad_para_una_minindustria_de_queso_de_cabra.md
+   Líneas originales: 741
+   Líneas limpias: 351
+   Problemas corregidos: 7
+   Reducción: 52.6%
+--------------------------------------------------
+📄 La_biomecánica_con_enfoque_de_género_en_las_karatecas_pioneriles_de_Cienfuegos,_Cuba.md
+   Líneas originales: 812
+   Líneas limpias: 361
+   Problemas corregidos: 7
+   Reducción: 55.5%
+--------------------------------------------------
+📄 La_comunicación_familiar_en_el_desarrollo_y_ajuste_psicosocial_de_los_adolescentes__el_impacto_sobre_la_formación_del_autoconcepto.md
+   Líneas originales: 763
+   Líneas limpias: 273
+   Problemas corregidos: 6
+   Reducción: 64.2%
+--------------------------------------------------
+📄 La_educación_de_niños_con_trastorno_por_déficit_de_atención_e_hiperactividad.md
+   Líneas originales: 672
+   Líneas limpias: 297
+   Problemas corregidos: 7
+   Reducción: 55.8%
+--------------------------------------------------
+📄 La_revista_Ciencia_y_Deporte_visible_en_la_red_SciELO,_una_meta_lograda.md
+   Líneas originales: 177
+   Líneas limpias: 65
+   Problemas corregidos: 6
+   Reducción: 63.3%
+--------------------------------------------------
+📄 Los_Los_servicios_ecosistémicos_como_enfoque_de_gestión__aproximación_desde_las_playas_arenosas_turísticas.md
+   Líneas originales: 1466
+   Líneas limpias: 457
+   Problemas corregidos: 7
+   Reducción: 68.8%
+--------------------------------------------------
+📄 Mediación_de_conflictos_en_la_clase_de_Educación_Física._Por_qué_y_para_qué.md
+   Líneas originales: 825
+   Líneas limpias: 373
+   Problemas corregidos: 7
+   Reducción: 54.8%
+--------------------------------------------------
+📄 Plan_de_manejo_ambiental_para_la_protección_de_las_aguas_subterráneas_del_acuífero_Holguín.md
+   Líneas originales: 1006
+   Líneas limpias: 419
+   Problemas corregidos: 7
+   Reducción: 58.3%
+--------------------------------------------------
+📄 Procedimiento_para_la_eficiencia_en_costos_del_servicio_de_paquetería.md
+   Líneas originales: 2779
+   Líneas limpias: 2465
+   Problemas corregidos: 7
+   Reducción: 11.3%
+--------------------------------------------------
+📄 Programa_curricular_para_la_enseñanza_del_judo_en_la_carrera_de_Pedagogía_de_la_actividad_física.md
+   Líneas originales: 1200
+   Líneas limpias: 649
+   Problemas corregidos: 7
+   Reducción: 45.9%
+--------------------------------------------------
+📄 Pruebas_para_evaluar_la_resistencia_a_la_fuerza_de_brazos_en_luchadoras_escolares_de_Camagüey.md
+   Líneas originales: 737
+   Líneas limpias: 421
+   Problemas corregidos: 7
+   Reducción: 42.9%
+--------------------------------------------------
+📄 Revisión_sistemática_de_las_estrategias_didácticas_en_la_Educación_Física_para_el_desarrollo_de_habilidades_motrices.md
+   Líneas originales: 1339
+   Líneas limpias: 537
+   Problemas corregidos: 8
+   Reducción: 59.9%
+--------------------------------------------------
+📄 Selección_multicarácter_en_bovinos_lecheros_cubanos.md
+   Líneas originales: 1064
+   Líneas limpias: 469
+   Problemas corregidos: 7
+   Reducción: 55.9%
+--------------------------------------------------
+📄 Sistema_de_indicadores_para_la_evaluación_ambiental_de_vertederos_de_relleno_sanitarios.md
+   Líneas originales: 1012
+   Líneas limpias: 361
+   Problemas corregidos: 8
+   Reducción: 64.3%
+--------------------------------------------------
+📄 Teleología,_enseñanza_de_la_biología_y_dialéctica_materialista;_su_articulación_desde_la_perspectiva_de_la_teoría_de_Santiago.md
+   Líneas originales: 725
+   Líneas limpias: 253
+   Problemas corregidos: 6
+   Reducción: 65.1%
+--------------------------------------------------
+📄 Vulnerabilidad_funcional_urbana_en_las_infraestructuras_de_soporte__electricidad_y_telefonía,_en_el_asentamiento_urbano_de_Gibara.md
+   Líneas originales: 906
+   Líneas limpias: 297
+   Problemas corregidos: 6
+   Reducción: 67.2%
+--------------------------------------------------
+📄 Zonación_hidrogeoquímica_de_la_subcuenca_Najasa,_cuenca_Costera_Sur_de_Camagüey,_Cuba.md
+   Líneas originales: 3094
+   Líneas limpias: 1451
+   Problemas corregidos: 7
+   Reducción: 53.1%
+--------------------------------------------------
