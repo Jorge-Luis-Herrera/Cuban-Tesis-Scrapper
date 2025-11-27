@@ -39,10 +39,10 @@ def convertir_pdfs():
         print(f"Creó el archivo mk número {i}")
         i = i + 1 
 
-print('Empezando el programa')
+print('Empezando el convertidor')
 print('')
 try:
     convertir_pdfs()
-    print('Termino el programa ')
+    print('Termino el convertidor')
 except Exception as e:
     print(e)

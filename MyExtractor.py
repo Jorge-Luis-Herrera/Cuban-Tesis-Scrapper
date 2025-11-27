@@ -122,7 +122,7 @@ def abrirenlace(url):
                 print(f'Error al conectar a {url}: {e}')
                 raise Exception(f'No se pudo conectar a {url} ')
        
-#Devuelve una lista de todos los enlaces q hay dentro de de la pagina url_principal
+#Devuelve una lista de todos los enlaces q hay dentro de de la pagina url
 def encontrarenlaces(url):
         soup = abrirenlace(url)
         encontrados = soup.find_all("a", rel='bookmark')
@@ -206,10 +206,13 @@ def descargar(url):
                                 realpdf.write(chunk)
                 print(f'Se descargó correctamente el archivo: {out_path}')
 
-print('Empieza el programa ')
-i = 1
-for enlace in encontrarenlaces(url_principal):
-        print('Empieza la descarga')
-        descargar(enlace) 
-        print(f'Con exito el {i} enlace')
-        i = i + 1 
+def main(url): 
+        print('Empieza el programa ')
+        i = 1
+        global url_principal 
+        url_principal = url
+        for enlace in encontrarenlaces(url):
+                print('Empieza la descarga')
+                descargar(enlace) 
+                print(f'Con exito el {i} enlace')
+                i = i + 1 
